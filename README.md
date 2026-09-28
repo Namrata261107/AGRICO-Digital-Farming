@@ -1,7 +1,3 @@
-# AGRICO-Digital-Farming
-A WordPress-based digital farming companion connecting farmers with farm equipment, services, and crop marketplace.
-
-
 # 🌱 AGRICO – Digital Farming Companion
 
 AGRICO is a WordPress-based digital farming companion designed to bring
